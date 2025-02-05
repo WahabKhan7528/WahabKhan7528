@@ -42,8 +42,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahabkhan7528&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabkhan7528&theme=radical" alt="GitHub Streak" />
-  <br />
+</p>
+
+---
+
+### 🏆 Top Languages
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahabkhan7528&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
