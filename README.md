@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **JavaScript, React**  
+- 🌱 Currently learning **JavaScript, React, Django**  
 - 💻 My projects: [GitHub Profile](https://github.com/WahabKhan7528)  
-- 💬 Ask me about **HTML, CSS, JavaScript, React**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Django**  
 - 📫 Reach me at **haribkhan0625@gmail.com**  
 
 ---
