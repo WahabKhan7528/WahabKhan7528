@@ -46,7 +46,10 @@
 ---
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahabkhan7528&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahabkhan7528&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 
 ---
