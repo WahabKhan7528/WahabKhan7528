@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahabkhan7528&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-</p>
-
----
-
 ### ⚡ Fun Fact  
 💡 I love exploring **new technologies** and building **side projects** that challenge me!  
 
