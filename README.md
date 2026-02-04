@@ -7,36 +7,55 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me
 - 🌱 Currently learning **JavaScript, React, Django**  
-- 💻 My projects: [GitHub Profile](https://github.com/WahabKhan7528)  
+- 💻 Working on **real-world projects** to improve my skills  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Django**  
 - 📫 Reach me at **haribkhan0625@gmail.com**  
 
 ---
 
-### 🌟 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-wahab-khan-b8314831b" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahab%20Khan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+## 🌟 Portfolio
+Here are some of my notable projects. Click the links to view them:
+
+<div align="center">
+
+[![Project 1](https://img.shields.io/badge/Project1-React-blue?style=for-the-badge)](https://github.com/WahabKhan7528/project1)  
+[![Project 2](https://img.shields.io/badge/Project2-Django-green?style=for-the-badge)](https://github.com/WahabKhan7528/project2)  
+[![Project 3](https://img.shields.io/badge/Project3-JavaScript-yellow?style=for-the-badge)](https://github.com/WahabKhan7528/project3)  
+
+</div>
+
+> Tip: You can add **screenshots or GIFs** of your projects for extra flair.
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-wahab-khan-b8314831b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahab%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/WahabKhan7528" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-WahabKhan7528-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-### ⚡ Fun Fact  
+## ⚡ Fun Fact
 💡 I love exploring **new technologies** and building **side projects** that challenge me!  
+🚀 Currently aiming to **become a full-stack developer** with a strong focus on **React and Django**.
 
