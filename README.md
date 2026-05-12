@@ -15,21 +15,6 @@
 
 ---
 
-## 🌟 Portfolio
-Here are some of my notable projects. Click the links to view them:
-
-<div align="center">
-
-[![Project 1](https://img.shields.io/badge/Project1-React-blue?style=for-the-badge)](https://github.com/WahabKhan7528/project1)  
-[![Project 2](https://img.shields.io/badge/Project2-Django-green?style=for-the-badge)](https://github.com/WahabKhan7528/project2)  
-[![Project 3](https://img.shields.io/badge/Project3-JavaScript-yellow?style=for-the-badge)](https://github.com/WahabKhan7528/project3)  
-
-</div>
-
-> Tip: You can add **screenshots or GIFs** of your projects for extra flair.
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/abdul-wahab-khan-b8314831b" target="_blank">
