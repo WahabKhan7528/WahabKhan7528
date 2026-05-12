@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab Khan</h1>
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Prompt Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wahabkhan7528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **JavaScript, React, Django**  
+- 🌱 Currently learning **JavaScript, MERN, Django**  
 - 💻 Working on **real-world projects** to improve my skills  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Django**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Django, and MERN **  
 - 📫 Reach me at **haribkhan0625@gmail.com**  
 
 ---
