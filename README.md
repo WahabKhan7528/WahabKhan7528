@@ -33,8 +33,6 @@
 <img src="https://raw.githubusercontent.com/WahabKhan7528/WahabKhan7528/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation" />
 </div>
 
-> Requires the one-time GitHub Action setup below in `WahabKhan7528/WahabKhan7528` — generated and hosted in your own repo, not a third-party server.
-
 ---
 
 ## GitHub Stats
