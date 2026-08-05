@@ -41,17 +41,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WahabKhan7528&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=WahabKhan7528&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabKhan7528&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
 ## Featured Projects
 
