@@ -5,7 +5,7 @@
 ### MERN Stack Developer · Frontend-Leaning · Prompt Engineer
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Building+CRUX+%E2%80%94+AI+Resume+%26+Interview+Prep;React+%7C+Node.js+%7C+GSAP+%7C+Three.js;Prompt+Engineering+as+a+Core+Skill" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Building+CRUX+%E2%80%94+AI+Resume+%26+Interview+Prep;React+%7C+Node.js+%7C+GSAP+%7C+Tailwind;Prompt+Engineering+as+a+Core+Skill" alt="Typing SVG" />
 
 <br/>
 
