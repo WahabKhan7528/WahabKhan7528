@@ -1,69 +1,28 @@
-name: Update Profile README Visuals
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
-  push:
-    branches: [main]
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  # 1. Contribution snake — pushes SVGs to a separate "output" branch
-  snake:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: WahabKhan7528
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # 2. GitHub stats card — generated in-Action, committed to main as images/userstats.svg
-  stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate GitHub stats card
-        uses: cicirello/user-statistician@v1
-        with:
-          colors: dark
-          image-file: images/userstats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # 3. Streak stats card — generated in-Action, committed to main as profile/streak.svg
-  streak:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&disable_animations=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit streak stats card
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
