@@ -77,7 +77,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 </p>
 
-**AI-assisted workflow:** Claude · Cursor · GitHub Copilot · AntiGravity (Gemini) — used as core parts of the build process, with prompt engineering treated as a distinct, practiced skill.
+**AI-assisted workflow:** Claude · Cursor · GitHub Copilot · AntiGravity (Gemini), used as core parts of the build process, with prompt engineering treated as a distinct, practiced skill.
 
 ---
 
