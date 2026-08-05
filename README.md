@@ -1,40 +1,116 @@
-<h1 align="center">Hi, I'm Abdul Wahab Khan (Harib) 👋</h1>
-<h3 align="center">MERN Stack Developer · Frontend-Leaning · Prompt Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahabKhan7528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/abdul-wahab-khan-arib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://wahabkhan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-wahabkhan.me-000000?style=flat&logo=vercel" />
-  </a>
-</p>
+<pre>
+                                                       ....
+                                                        ....:.
+                                                         .....
+                                                         .::::-:
+                                                  ......:=*%%%@%=
+                                                 .-=+*##%@@@@@%%#-.
+                                                .----==*%%%#***#%#:
+                                               .-=-:-=++=*#*=-+###+:
+                                             .:.-++=+*%#=#%#%######-
+                                             .:.-=+*##%*+*%%%@%%%@#.
+                                              :::-=*#%*=-=*##%%%%%*.
+                                                .:-+*-::=*#**+*%%*.
+                                                 .::=+++=+*#%%%##-
+                                               ...  .:=++++#%#+-.
+                                              :+=-.      .....:.
+                                             .****+-:     ..:=*-
+                                             .=###%%#*=====+*#=#:
+                                       ....    :#@@@@@@%%##%%*-@#-..
+                                   ..............+%@@@@%##%%%+**:*=......
+                                 ................ :#%*+****####.  --.......
+ .     ..                            ...............-...:::.::.....:.........
+.................                 .  .........................................                             .....
+............................      ... ...........................................   .... .. ....................
+...........................        ...... ................................:.....................................
+..........................          .....  ...............................::....................................
+..........................       .  .. ...  ....................................................................
+..........................       ..  .  .    ...................................................................
+..........................        ..  .       ..................................................................
+.........................         ..  ..       .............................. ..................................
+.........................          ..  .         ............................ ..................................
+.........................       .  ...  .          .........................  ..................................
+.........................       .   ...              .......................   .................................
+.........................       .   ....              ......................   .................................
+.........................       ..   .                 .....................     ...............................
+.........................      ....   .                  ...................     ...............................
+....:....................      .....   .                  ..................      ..............................
+:::::::::::::::::::::::::       .....  .                  ..................      ..:..:::::::::::::::::::::::::
+:::::::::::::::::::::::::        .    .                    .................      ..::::::::::::::::::::::::::::
+:::::::::::::::::::::::::.        .                         ...............       ..::::::::::::::::::::::::::::
+:::::::::::::::::::::::::.                                  ................     . .::::::::::::::::::::::::::::
+:::::::::::::::::::::::::.       .. ..                       ...............       .::::::::::::::::::::::::::::
+:::::::::::::::::::::::::.            .                      ..............      ...::::::::::::::::::::::::::::
+::::::::::::::::::::::::::         .                           ............         .:::::::::::::::::::::::::::
+</pre>
+
+# Abdul Wahab Khan (Harib)
+
+### MERN Stack Developer · Frontend-Leaning · Prompt Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Full-Stack+MERN+Developer;Building+CRUX+%E2%80%94+AI+Resume+%26+Interview+Prep;React+%7C+Node.js+%7C+GSAP+%7C+Three.js;Prompt+Engineering+as+a+Core+Skill" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=WahabKhan7528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://linkedin.com/in/abdul-wahab-khan-arib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://wahabkhan.me"><img src="https://img.shields.io/badge/Portfolio-wahabkhan.me-000000?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="mailto:haribkhan0625@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### About Me
+## About Me
 
 - 🎓 BS Computer Science, Islamia University of Bahawalpur (2022–2026)
-- 🧠 Full-stack MERN developer with a strong frontend focus (React, Tailwind, GSAP, Three.js)
-- 🚀 Building **CRUX** — an AI-powered resume analysis & interview prep SaaS ([repo](https://github.com/WahabKhan7528/CRUX))
-- 🛠️ Treat prompt engineering as its own skill — use Claude, Cursor, GitHub Copilot & Gemini as core parts of my dev workflow
-- 📫 Reach me at **haribkhan0625@gmail.com**
+- 💻 Full-stack MERN developer with a strong frontend focus — React, Tailwind, GSAP, Three.js
+- 🚀 Building **[CRUX](https://github.com/WahabKhan7528/CRUX)** — an AI-powered resume analysis & interview prep SaaS
+- 🧠 Treat **prompt engineering** as its own discipline — Claude, Cursor, GitHub Copilot & AntiGravity/Gemini are core parts of my dev workflow, not side tools
+- 📍 Based in Lahore, Pakistan
+- 📫 **haribkhan0625@gmail.com**
 
 ---
 
-### Featured Projects
+## Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabKhan7528&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/WahabKhan7528/WahabKhan7528/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation" />
+</div>
+
+> The snake animation needs a one-time GitHub Action added to your `WahabKhan7528/WahabKhan7528` repo — see setup notes below. It's self-hosted in your own repo, so unlike third-party widgets it won't randomly go down.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=WahabKhan7528&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabKhan7528&hide_border=true&cache_seconds=86400" width="48%" alt="Streak Stats" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabKhan7528&layout=compact&hide_border=true&cache_seconds=86400" width="55%" alt="Top Languages" />
+</div>
+
+---
+
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | **[CRUX](https://github.com/WahabKhan7528/CRUX)** | AI-powered resume analysis & interview prep SaaS, BYOK model | Node.js, Express, MongoDB, Redis, Cloudflare R2 |
-| **TBC – College Management System** | Full-stack LMS/CMS for a college, RBAC across 4 roles, JWT refresh rotation | MERN, ~20 Mongoose models, Vercel/Render |
+| **TBC — College Management System** | Full-stack LMS/CMS, RBAC across 4 roles, JWT refresh rotation, ~20 Mongoose models | MERN, Vercel/Render |
 | **Arabic Kitchen** | Restaurant management system with reservations & staff management | React 19, Vite, Node/Express, MongoDB |
 | **[Portfolio Site](https://wahabkhan.me)** | Personal site, dark brutalist "Precision Noir" aesthetic | React, Vite, GSAP, Three.js |
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -49,31 +125,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahabKhan7528&show_icons=true&theme=default&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabKhan7528&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabKhan7528&layout=compact&hide_border=true" width="60%" />
-</p>
+**AI-assisted workflow:** Claude · Cursor · GitHub Copilot · AntiGravity (Gemini) — used as core parts of the build process, with prompt engineering treated as a distinct, practiced skill.
 
 ---
 
-### Connect
+## Soft Skills
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-wahab-khan-arib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:haribkhan0625@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wahabkhan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+- 🗣️ Communication & client-facing — comfortable explaining technical decisions to non-technical stakeholders
+- 🧩 Problem-solving / debugging under pressure
+- 📚 Self-learning & adaptability — picks up new stacks and tools as projects demand
+- ⏱️ Time management & ownership — drives features end-to-end without hand-holding
+
+---
+
+## Connect
+
+<div align="center">
+<a href="https://linkedin.com/in/abdul-wahab-khan-arib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:haribkhan0625@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wahabkhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/WahabKhan7528"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
