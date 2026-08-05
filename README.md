@@ -1,61 +1,16 @@
 <div align="center">
 
-<pre>
-                                                       ....
-                                                        ....:.
-                                                         .....
-                                                         .::::-:
-                                                  ......:=*%%%@%=
-                                                 .-=+*##%@@@@@%%#-.
-                                                .----==*%%%#***#%#:
-                                               .-=-:-=++=*#*=-+###+:
-                                             .:.-++=+*%#=#%#%######-
-                                             .:.-=+*##%*+*%%%@%%%@#.
-                                              :::-=*#%*=-=*##%%%%%*.
-                                                .:-+*-::=*#**+*%%*.
-                                                 .::=+++=+*#%%%##-
-                                               ...  .:=++++#%#+-.
-                                              :+=-.      .....:.
-                                             .****+-:     ..:=*-
-                                             .=###%%#*=====+*#=#:
-                                       ....    :#@@@@@@%%##%%*-@#-..
-                                   ..............+%@@@@%##%%%+**:*=......
-                                 ................ :#%*+****####.  --.......
- .     ..                            ...............-...:::.::.....:.........
-.................                 .  .........................................                             .....
-............................      ... ...........................................   .... .. ....................
-...........................        ...... ................................:.....................................
-..........................          .....  ...............................::....................................
-..........................       .  .. ...  ....................................................................
-..........................       ..  .  .    ...................................................................
-..........................        ..  .       ..................................................................
-.........................         ..  ..       .............................. ..................................
-.........................          ..  .         ............................ ..................................
-.........................       .  ...  .          .........................  ..................................
-.........................       .   ...              .......................   .................................
-.........................       .   ....              ......................   .................................
-.........................       ..   .                 .....................     ...............................
-.........................      ....   .                  ...................     ...............................
-....:....................      .....   .                  ..................      ..............................
-:::::::::::::::::::::::::       .....  .                  ..................      ..:..:::::::::::::::::::::::::
-:::::::::::::::::::::::::        .    .                    .................      ..::::::::::::::::::::::::::::
-:::::::::::::::::::::::::.        .                         ...............       ..::::::::::::::::::::::::::::
-:::::::::::::::::::::::::.                                  ................     . .::::::::::::::::::::::::::::
-:::::::::::::::::::::::::.       .. ..                       ...............       .::::::::::::::::::::::::::::
-:::::::::::::::::::::::::.            .                      ..............      ...::::::::::::::::::::::::::::
-::::::::::::::::::::::::::         .                           ............         .:::::::::::::::::::::::::::
-</pre>
-
-# Abdul Wahab Khan (Harib)
+# Abdul Wahab Khan Arib
 
 ### MERN Stack Developer · Frontend-Leaning · Prompt Engineer
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Full-Stack+MERN+Developer;Building+CRUX+%E2%80%94+AI+Resume+%26+Interview+Prep;React+%7C+Node.js+%7C+GSAP+%7C+Three.js;Prompt+Engineering+as+a+Core+Skill" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=WahabKhan7528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<a href="https://linkedin.com/in/abdul-wahab-khan-arib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://wahabkhan.me"><img src="https://img.shields.io/badge/Portfolio-wahabkhan.me-000000?style=flat&logo=vercel&logoColor=white" /></a>
-<a href="mailto:haribkhan0625@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=WahabKhan7528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <a href="https://linkedin.com/in/abdul-wahab-khan-arib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://wahabkhan.me"><img src="https://img.shields.io/badge/Portfolio-wahabkhan.me-000000?style=flat&logo=vercel&logoColor=white" /></a> <a href="mailto:haribkhan0625@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -75,27 +30,24 @@
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabKhan7528&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/WahabKhan7528/WahabKhan7528/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation" />
 </div>
 
-> The snake animation needs a one-time GitHub Action added to your `WahabKhan7528/WahabKhan7528` repo — see setup notes below. It's self-hosted in your own repo, so unlike third-party widgets it won't randomly go down.
+> Requires the one-time GitHub Action setup below in `WahabKhan7528/WahabKhan7528` — generated and hosted in your own repo, not a third-party server.
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WahabKhan7528&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabKhan7528&hide_border=true&cache_seconds=86400" width="48%" alt="Streak Stats" />
+<img src="images/userstats.svg" width="70%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabKhan7528&layout=compact&hide_border=true&cache_seconds=86400" width="55%" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="profile/streak.svg" width="70%" alt="GitHub Streak" /></a>
 </div>
+
+> Also generated by the same Action — no third-party stats server involved, so it won't go down when that server does.
 
 ---
 
@@ -131,10 +83,10 @@
 
 ## Soft Skills
 
-- 🗣️ Communication & client-facing — comfortable explaining technical decisions to non-technical stakeholders
+- 🗣️ Communication & client-facing
 - 🧩 Problem-solving / debugging under pressure
-- 📚 Self-learning & adaptability — picks up new stacks and tools as projects demand
-- ⏱️ Time management & ownership — drives features end-to-end without hand-holding
+- 📚 Self-learning & adaptability
+- ⏱️ Time management & ownership
 
 ---
 
